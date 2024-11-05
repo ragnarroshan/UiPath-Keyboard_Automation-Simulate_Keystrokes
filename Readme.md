@@ -22,7 +22,7 @@ Name the process (e.g., Notepad Automation) and click Create.
 
 ### Start the Notepad Application:
 
-Search for the Start Process activity in the Activities panel and drag it into the Main sequence.<br>
+Search for the Start Process activityy in the Activities panel and drag it into the Main sequence.<br>
 In the FileName property of Start Process, enter the path to the Notepad executable (notepad.exe):<br>
 
 ```
